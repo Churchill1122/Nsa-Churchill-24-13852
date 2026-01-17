@@ -61,12 +61,12 @@ file_handler.py
 main.py
 
 4️⃣ Testing
-Test Scenarios
-Scenario	Expected Result
-Add expense	Expense saved
-View expenses	All expenses displayed
-View total	Correct sum shown
-Restart app	Old expenses still available
+| Scenario      | Expected Result              |
+| ------------- | ---------------------------- |
+| Add expense   | Expense saved                |
+| View expenses | All expenses displayed       |
+| View total    | Correct sum shown            |
+| Restart app   | Old expenses still available |
 
 ✔️ All tested manually through console
 
@@ -79,3 +79,4 @@ Monthly expense summary
 Export to CSV
 Add authentication
 Build GUI or web version
+
