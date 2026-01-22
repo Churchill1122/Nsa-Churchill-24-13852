@@ -71,6 +71,7 @@ main.py
 ✔️ All tested manually through console
 
 5️⃣ Deployment = GitHub
+LINK = https://github.com/Churchill1122/Nsa-Churchill-24-13852
 
 6️⃣ Maintenance
 Future improvements:
@@ -79,4 +80,5 @@ Monthly expense summary
 Export to CSV
 Add authentication
 Build GUI or web version
+
 
